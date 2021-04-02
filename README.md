@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThijsVermeire
+- 👀 I’m interested in Data Science/Analytics
+- 🌱 I’m currently learning Spark and Keras 
+- 💞️ I’m looking to collaborate on Big Data Science projects 
+- 📫 How to reach me https://www.linkedin.com/in/thijs-vermeire/ 
